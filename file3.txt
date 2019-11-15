@@ -1,1 +1,2 @@
 added line 1 in file3.txt
+added line 2 in file3.txt
